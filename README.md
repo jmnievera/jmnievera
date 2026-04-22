@@ -8,3 +8,7 @@ Hi, my name is Joey and I am a current second-year undergrad at Georgia Tech. My
 
 * 🌍  I'm based in Atlanta
 * ✉️  You can contact me at [jnievera6@gatech.edu](mailto:jnievera6@gatech.edu)
+
+
+# Tools
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg"> <img src = "https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg"> <img src = "https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg"> <img src = "https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg"> <img src = "https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg"> <img src = "https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi2.svg"> <img src = "https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
