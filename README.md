@@ -9,4 +9,7 @@ Hi, my name is Joey and I am a current second-year undergrad at Georgia Tech. My
 * 🌍  I'm based in Atlanta
 * ✉️  You can contact me at [jnievera6@gatech.edu](mailto:jnievera6@gatech.edu)
 
+# Todoist Stats
 
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
